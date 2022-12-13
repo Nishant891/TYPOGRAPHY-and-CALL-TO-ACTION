@@ -1,0 +1,248 @@
+.Tahoma{
+    font-family: Tahoma;
+    font-weight: 570;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Arial{
+    font-family: Arial;
+    font-weight: 570;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.Sale{
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(211, 57, 57);
+    font-style: italic;
+    margin-top: 0px;
+}
+.hcc{
+    font-family: Verdana;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.btp{
+    margin-top: 0px;
+    font-family: Verdana;
+    font-size: 14px;
+    color: rgb(96,96,96);
+}
+.para{
+    font-family: Verdana;
+    width: 250px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.btn{
+    border: none;
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
+.shop{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.help{
+    font-size: 14.5px;
+    font-family: Arial;
+    margin-left: 70px;
+    margin-right: 45px;
+    font-weight: 549;
+}
+.learn{
+    font-size: 14.5px;
+    font-family: Arial;
+    margin-left: 135px;
+    margin-right: 45px;
+    color: blue;
+}
+
+p{
+    font-family: Arial;
+}
+.sp{
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.mc{
+    color: rgba(0,0,0,0.75);
+    font-size: 18px;
+    padding-left: 120px;
+    font-weight: 550;
+    margin-bottom: 4px;
+    margin-top: 6px;
+}
+.new{
+    font-size: 11px;
+    font-weight: bold;
+    padding-left: 164px;
+    margin-bottom: 0px;
+    color: rgb(199, 131, 47);
+}
+.dollar{
+    margin-top: 0px;
+    padding-left: 134px;
+    margin-bottom: 10px;
+}
+.button{
+    font-weight: bold;
+    margin-left: 156px;
+    padding: 6 12 6 12;
+    border: none;
+    border-radius: 14px;
+    color: white;
+    background-color: rgba(0,0,255);
+    opacity: 0.75;
+}
+.amount{
+    font-size: 33px;
+}
+.usd,.time{
+    color: rgb(100, 100, 100);
+}
+.graph{
+    color: rgb(215, 63, 63);
+}
+.date{
+    color: green;
+}
+.p1{
+    margin-bottom: 7px;
+}
+.p2{
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.p3
+{
+    margin-top: 0px;
+}
+.heading{
+    margin-bottom: 6px;
+}
+.title{
+    font-weight: bold;
+}
+.link{
+    color: rgb(100, 100, 100);
+}
+.description{
+    width: 500px;
+    margin-top: 0px;
+}
+.chp{
+    color: blue;
+}
+
+.N{
+    display: block;
+    margin-bottom: 6px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+}
+.E{
+    display: block;
+    margin-bottom: 6px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;    
+}
+.cs{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle
+}
+.googler{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: none;
+    padding: 12px 14px 12px 14px;
+}
+.google{
+    width: 200px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.search2{
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0.5px 0.5px 5px rgba(0,0,0,0.2);
+    outline: 0;
+}
+.google_search{
+    text-align: center;
+
+}
+.fn,.ln{
+    width: 100px;
+    padding: 8px 0px 8px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+.Email{
+    display: block;
+    width: 215px;
+    padding: 8px 0px 8px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+.Sign_Up{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 9px 87px 9px 86px;
+    border: none;
+    background-color: rgb(38, 85, 255);
+    border-radius: 5px;
+}
+.intro{
+    font-size: 30px;
+    font-family: Arial;
+    margin-bottom: 18px;
+}
+.pickup,.dest{
+    display: block;
+    margin-bottom: 6px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    padding: 10px 123px 10px 12px;
+}
+.uber{
+    margin-top: 20px;
+    border: none;
+    margin-right: 12px;
+    color: white;
+    background-color: black;
+    padding: 9px 12px 9px 12px;
+}
+.sfl{
+    padding: 9px 12px 9px 12px;
+    border: none;
+    font-weight: 545;
+}
